@@ -1,0 +1,7 @@
+<templateSet group="Java">
+  <template name="hp" value="HashMap&lt;String, Object&gt; params = new HashMap&lt;&gt;();&#10;params.put(&quot;$END$&quot;, );" description="hash with params" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

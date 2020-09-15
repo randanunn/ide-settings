@@ -1,0 +1,9 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="PostgreSQL" injector-id="xml">
+      <display-name>xml sql formatting</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("sql"))]]></place>
+      <apply-to-subtags />
+    </injection>
+  </component>
+</application>

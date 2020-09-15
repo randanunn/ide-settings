@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="clog" value="console.log('randaLogger', $END$)" description="logger wrapper" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>
