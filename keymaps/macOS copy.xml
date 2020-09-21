@@ -16,7 +16,13 @@
   <action id="MakeModule">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="alt numpad0" />
+  </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt decimal" />
   </action>
 </keymap>
