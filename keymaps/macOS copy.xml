@@ -13,15 +13,21 @@
   </action>
   <action id="FileChooser.GotoModule" />
   <action id="FindNext" />
+  <action id="GotoTest" />
   <action id="MakeModule">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="alt numpad0" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="ResourceExplorer.show" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="ServiceView.ShowServices" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt decimal" />
   </action>
