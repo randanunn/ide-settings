@@ -6,5 +6,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.vue</mask>
+    <mask>*.js</mask>
   </component>
 </application>
