@@ -8,6 +8,7 @@
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
+    <option name="collapseSuppressWarnings" value="false" />
   </component>
   <component name="SqlFoldingSettings">
     <option name="COLLAPSE_LONG_NUMBERS" value="false" />
