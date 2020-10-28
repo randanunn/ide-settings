@@ -4,9 +4,9 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.js</mask>
-    <mask>*.vue</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
