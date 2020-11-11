@@ -2,25 +2,21 @@
   <component name="dataSourceStorage" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="stage" uuid="fda0fc4b-f47f-43d0-8ee4-1ea8ac62df44">
       <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/albatross_stage</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="PROD - DONT DO ANYTHING STUPID" uuid="5272526f-2ad5-4032-953e-9bdfd9b3374b">
       <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5430/blueraven</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="uat admin" uuid="9058cf5e-37bc-44e3-906c-df1c08a4f196">
       <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/blueraven_uat</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="uat - non admin" uuid="e3cbadc6-6709-43d3-8b3e-4c7d34238dbf">
       <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/blueraven_uat</jdbc-url>
     </data-source>
