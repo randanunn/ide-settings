@@ -5,6 +5,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="intellij-stuff" type="PLAIN_TEXT" />
       <mapping pattern="new-mac-stuff" type="PLAIN_TEXT" />
+      <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern="todoList" type="PLAIN_TEXT" />
       <mapping pattern="todoLisst" type="PLAIN_TEXT" />
     </extensionMap>
