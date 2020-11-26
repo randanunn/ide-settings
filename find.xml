@@ -6,7 +6,7 @@
     <mask>*.xml</mask>
     <mask>*.sql</mask>
     <mask>*.js</mask>
-    <mask>*.vue</mask>
     <mask>*.java</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
