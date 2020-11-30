@@ -5,8 +5,8 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>
