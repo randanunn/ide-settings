@@ -5,10 +5,11 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.xml</mask>
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.sql</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
