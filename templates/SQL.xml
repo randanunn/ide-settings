@@ -23,4 +23,16 @@
       <option name="SQL" value="true" />
     </context>
   </template>
+  <template name="ij" value="inner join flow.$table$$END$" description="inner join" toReformat="false" toShortenFQNames="true">
+    <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="lj" value="left join flow.$table$$END$" description="left join" toReformat="false" toShortenFQNames="true">
+    <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
 </templateSet>
