@@ -35,7 +35,7 @@
       </csv-format>
       <csv-format name="CSV - comma" id="255560ea-5505-437a-a675-7ab8ebc0cd40">
         <data>
-          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="," trimWhitespace="true">
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator=",">
             <quotation>
               <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
             </quotation>
