@@ -20,6 +20,12 @@
     <option name="invertOrderInOnClause" value="true" />
     <option name="supportNonStrictForeignKeys" value="false" />
   </component>
+  <component name="SqlEditorOptions">
+    <option name="aliasQualification" value="Always" />
+    <option name="concatenateStringsOnEnter" value="false" />
+    <option name="namespaceQualification" value="Always" />
+    <option name="tableQualification" value="Never" />
+  </component>
   <component name="SqlFoldingSettings">
     <option name="COLLAPSE_LONG_NUMBERS" value="false" />
   </component>
